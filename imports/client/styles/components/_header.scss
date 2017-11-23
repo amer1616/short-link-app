@@ -1,0 +1,16 @@
+.header{
+  background: $header-bg;
+  color: $header-color;
+}
+
+.header__content{
+  display: flex;
+  justify-content: space-between;
+  max-width: $max-width-val;
+  margin: 0 auto;
+  padding: $space;
+}
+
+.header__brand{
+  margin: 0;
+}
