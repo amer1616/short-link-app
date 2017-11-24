@@ -1,6 +1,6 @@
-Short Link App
+# Short Link App
 
 This is a short a link shortner App on Meteor and React.
 
-Authors:
+## Authors:
 Amer
